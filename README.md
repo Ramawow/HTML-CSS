@@ -5,8 +5,8 @@
     Part of Ramawow Project, managed by <a href="https://github.com/Ramawow/"> Ramawow Community</a> <br/>
     Ramawow Community is the fastest growing software developer forum initiated by <a href="www.youtube.com/@ChanelRamaWow"> Mr. Ramawow</a> <br/><br/>
     <a href="https://github.com/Ramawow/"><img src="https://img.shields.io/discord/722002048643497994?logo=github&logoColor=white&style=for-the-badge"></a>
-    <img src="https://img.shields.io/github/workflow/status/bellshade/PHP/CI%20PHP%20PSR-12%20Linting?style=for-the-badge">
-    <!-- <img src="https://img.shields.io/github/license/bellshade/PHPAlgorithm?style=for-the-badge"> <br/> <br/> -->
+    <img src="https://img.shields.io/github/workflow/status/Ramawow/PHP/CI%20PHP%20PSR-12%20Linting?style=for-the-badge">
+    <img src="https://img.shields.io/github/license/bellshade/PHPAlgorithm?style=for-the-badge"> <br/> <br/>
     Repositori ini berisi pembelajaran dan contoh-contoh dari impelementasi HTML dan CSS.
   
 </p>
