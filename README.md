@@ -1,12 +1,12 @@
 # HTML-CSS
 
 <p align="center">
-    <img width="20%" src="https://i.imgur.com/EfBl8Hs.png"><br/><br/>
-    Part of Bellshade Project, managed by <a href="http://discord.gg/S4rrXQU"> WPU Discord Community</a> <br/>
-    WPU Community is the fastest growing software developer forum initiated by <a href="https://www.youtube.com/c/WebProgrammingUNPAS"> Mr. Sandhika Galih</a> <br/><br/>
-    <a href="http://discord.gg/S4rrXQU"><img src="https://img.shields.io/discord/722002048643497994?logo=discord&logoColor=white&style=for-the-badge"></a>
-    <img src="https://img.shields.io/github/workflow/status/bellshade/PHP/CI%20PHP%20PSR-12%20Linting?style=for-the-badge">
-    <img src="https://img.shields.io/github/license/bellshade/PHPAlgorithm?style=for-the-badge"> <br/> <br/>
+    <img width="20%" src="75262985.png"><br/><br/>
+    Part of Ramawow Project, managed by <a href="https://github.com/Ramawow/"> Ramawow Community</a> <br/>
+    Ramawow Community is the fastest growing software developer forum initiated by <a href="www.youtube.com/@ChanelRamaWow"> Mr. Ramawow</a> <br/><br/>
+    <a href="https://github.com/Ramawow/"><img src="https://img.shields.io/discord/722002048643497994?logo=github&logoColor=white&style=for-the-badge"></a>
+    <img src="https://img.shields.io/github/workflow/status/Ramawow/PHP/CI%20PHP%20PSR-12%20Linting?style=for-the-badge">
+    <img src="https://img.shields.io/github/license/Ramawow/PHPAlgorithm?style=for-the-badge"> <br/> <br/>
     Repositori ini berisi pembelajaran dan contoh-contoh dari impelementasi HTML dan CSS.
   
 </p>

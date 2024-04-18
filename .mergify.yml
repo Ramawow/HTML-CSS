@@ -38,11 +38,11 @@ pull_request_rules:
     actions:
       request_reviews:
         teams:
-          - "@bellshade/htmlcss-team"
+          - "@Ramawow/htmlcss-team"
   - name: review tim htmlcss untuk review file css
     conditions:
       - label=css files
     actions:
       request_reviews:
         teams:
-          - "@bellshade/htmlcss-team"
+          - "@Ramawow/htmlcss-team"

@@ -16,10 +16,10 @@ Semua boleh ikut berkontribusi walaupun hal kecil dengan pengecualian sebagai be
 
 ### ***Pull request* yang baik**
 
-Informasi: gunakan [*issue*](https://github.com/bellshade/HTML-CSS/issues) apabila ingin menambahkan kode atau memperbaiki kode, dll (*basic*) agar tidak ada konflik dengan *pull request* lainnya.
+Informasi: gunakan [*issue*](hhttps://github.com/Ramawow/HTML-CSS/issues) apabila ingin menambahkan kode atau memperbaiki kode, dll (*basic*) agar tidak ada konflik dengan *pull request* lainnya.
 
-- Lakukan penjelasan deskripsi perubahan yang anda lakukan pada repositori kami dengan membuat penjelasan di [*issue*](https://github.com/bellshade/HTML-CSS/issues).
-- Setelah menjelaskan perubahan anda di [*issue*](https://github.com/bellshade/HTML-CSS/issues) kemudian lakukan *fork* pada repositori kami.
+- Lakukan penjelasan deskripsi perubahan yang anda lakukan pada repositori kami dengan membuat penjelasan di [*issue*](https://github.com/Ramawow/HTML-CSS/issues).
+- Setelah menjelaskan perubahan anda di [*issue*](https://github.com/Ramawow/HTML-CSS/issues) kemudian lakukan *fork* pada repositori kami.
 - Setelah melakukan *fork*, anda dibebaskan untuk mengubah atau menambah kode.
 - Untuk *pull request* merubah atau memperbaiki, diusahakan kamu menerapkan kode yang lebih baik dan lebih mudah serta memeberikan penjelasan lebih detail alasan dari perubahaan tersebut lebih baik dari sebelumnya.
 - Diusahakan untuk membuat branch baru setelah fork. Untuk membuat branch baru lihat tulisan kode dibawah ini :
@@ -58,7 +58,7 @@ Untuk pull request template disarankan untuk menambahkan screenshot atau hasil d
 
 **Tambahan**:
 
-- Jika ada kendala atau masalah dalam *pull request*, kamu bisa laporkan masalahnya dalam [issue](https://github.com/bellshade/HTML-CSS/issues).
+- Jika ada kendala atau masalah dalam *pull request*, kamu bisa laporkan masalahnya dalam [issue](https://github.com/Ramawow/HTML-CSS/issues).
 - Jika ada tes yang tidak lewat atau gagal, kami akan cek kembali perubahan anda.
 
 Untuk *pull request*, disarankan untuk menjelaskan secara detail yang kamu ubah atau tambahkan, dan bersikap sopan serta selalu berterima kasih. Itu salah satu bentuk tata krama yang baik terhadap sesama *contributor* dan *programmer* lainnya.
